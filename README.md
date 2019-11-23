@@ -25,7 +25,7 @@ This repository will be updated constantly in order to reflect modern **work-flo
 ### Linter modules
 ---
 * eslint
-* eshint-loader
+* eslint-loader
 - - -
 
 ### Babel modules
