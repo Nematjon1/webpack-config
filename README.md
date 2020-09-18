@@ -1,6 +1,6 @@
 # Webpack Configuration Files
 In this repo I have provided webpack setup for JavaScript applications.
-This repository will be updated constantly in order to reflect modern **work-flow**.
+This repository will be updated as nedeed in order to reflect modern **work-flow**.
 * * *
 > Loaders are executed from right to left or from bottom to top
 
