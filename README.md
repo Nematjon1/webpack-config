@@ -42,3 +42,5 @@ This repository will be updated as nedeed in order to reflect modern **work-flow
 ## Plugins
 
 * mini-css-extract-plugin
+
+Edit: 2022 year.
